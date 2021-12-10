@@ -1,0 +1,30 @@
+.background{
+    width: 80%;
+    height: 20vw;
+    margin: 10px auto;
+    padding: 2%;
+}
+.datelogo{
+    width: 100%;
+    height: 3vw;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    margin-bottom: 5%;
+}
+.image{
+    max-width: 100%;
+}
+.casestudy{
+    width: 28%;
+    padding: 2%;
+    background:black;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+.giftby{
+    font-size:larger;
+}
+.mobileos{
+    font-size: larger;
+}

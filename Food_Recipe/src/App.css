@@ -1,0 +1,6 @@
+.App{
+    width: 96%;
+    margin:2%;
+    grid-gap: 5%;
+    display: grid;
+}
